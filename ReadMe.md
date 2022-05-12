@@ -26,7 +26,7 @@ To test whether the application is up and running
 http://localhost:3000/
 
 To see the list of test users
-http://localhost:300o/users
+http://localhost:3000/users
 
 To see the API documentation
 http://localhost:3000/api-docs
